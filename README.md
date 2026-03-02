@@ -85,9 +85,6 @@ Mobile responsive optimization
 
 Medicine history tracking
 
-📸 Screenshot
-
-(Add your project screenshot here)
 
 📄 License
 
