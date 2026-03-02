@@ -5,7 +5,6 @@ A simple and elegant web application to manage medicines, reminders, and daily s
 This app helps users track their medicines, set reminders, and monitor daily intake with an easy-to-use dashboard.
 
 ✨ Features
-
 ⏰ Set medicine reminders
 
 💊 Add and manage medicines
